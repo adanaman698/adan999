@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns:brand="http://www.example.com/brand">
+    <brand:book>
+        <brand:title>To Kill a Mockingbird</brand:title>
+        <brand:author>Harper Lee</brand:author>
+        <brand:price>18.99</brand:price>
+        <brand:publication_year>1960</brand:publication_year>
+    </brand:book>
+    <brand:book>
+        <brand:title>1984</brand:title>
+        <brand:author>George Orwell</brand:author>
+        <brand:price>15.99</brand:price>
+        <brand:publication_year>1949</brand:publication_year>
+    </brand:book>
+    <brand:book>
+        <brand:title>The Great Gatsby</brand:title>
+        <brand:author>F. Scott Fitzgerald</brand:author>
+        <brand:price>12.99</brand:price>
+        <brand:publication_year>1925</brand:publication_year>
+    </brand:book>
+</books>

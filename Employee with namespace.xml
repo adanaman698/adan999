@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:Branch="http://www.example.com/Branch">
+    <Branch:employee id="E001">
+        <Branch:name>John Doe</Branch:name>
+        <Branch:department>Marketing</Branch:department>
+        <Branch:role>Manager</Branch:role>
+    </Branch:employee>
+    <Branch:employee id="E002">
+        <Branch:name>Jane Smith</Branch:name>
+        <Branch:department>Engineering</Branch:department>
+        <Branch:role>Software Developer</Branch:role>
+    </Branch:employee>
+    <Branch:employee id="E003">
+        <Branch:name>Michael Johnson</Branch:name>
+        <Branch:department>Human Resources</Branch:department>
+        <Branch:role>HR Specialist</Branch:role>
+    </Branch:employee>
+</employees>
