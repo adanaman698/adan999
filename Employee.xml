@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <product id="P001">
+        <name>Wireless Mouse</name>
+        <category>Electronics</category>
+        <price>25.99</price>
+        <quantity>150</quantity>
+    </product>
+    <product id="P002">
+        <name>Bluetooth Headphones</name>
+        <category>Electronics</category>
+        <price>75.49</price>
+        <quantity>200</quantity>
+    </product>
+    <product id="P003">
+        <name>Leather Wallet</name>
+        <category>Accessories</category>
+        <price>19.99</price>
+        <quantity>300</quantity>
+    </product>
+</inventory>
